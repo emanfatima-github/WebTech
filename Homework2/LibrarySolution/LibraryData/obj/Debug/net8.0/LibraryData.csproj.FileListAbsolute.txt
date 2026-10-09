@@ -1,0 +1,12 @@
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibraryData\bin\Debug\net8.0\LibraryData.deps.json
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibraryData\bin\Debug\net8.0\LibraryData.dll
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibraryData\bin\Debug\net8.0\LibraryData.pdb
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibraryData\obj\Debug\net8.0\LibraryData.csproj.AssemblyReference.cache
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibraryData\obj\Debug\net8.0\LibraryData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibraryData\obj\Debug\net8.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibraryData\obj\Debug\net8.0\LibraryData.AssemblyInfo.cs
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibraryData\obj\Debug\net8.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibraryData\obj\Debug\net8.0\LibraryData.dll
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibraryData\obj\Debug\net8.0\refint\LibraryData.dll
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibraryData\obj\Debug\net8.0\LibraryData.pdb
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibraryData\obj\Debug\net8.0\ref\LibraryData.dll

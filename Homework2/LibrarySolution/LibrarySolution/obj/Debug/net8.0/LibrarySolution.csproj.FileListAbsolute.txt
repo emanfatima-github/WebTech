@@ -1,0 +1,4 @@
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibrarySolution\obj\Debug\net8.0\LibrarySolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibrarySolution\obj\Debug\net8.0\LibrarySolution.AssemblyInfoInputs.cache
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibrarySolution\obj\Debug\net8.0\LibrarySolution.AssemblyInfo.cs
+C:\Users\Localws\OneDrive\Desktop\LibrarySolution\LibrarySolution\obj\Debug\net8.0\LibrarySolution.csproj.CoreCompileInputs.cache
