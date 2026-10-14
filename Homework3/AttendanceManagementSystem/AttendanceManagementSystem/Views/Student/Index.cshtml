@@ -1,0 +1,59 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@model IEnumerable<AttendanceManagementSystem.Models.Student>
+
+@{
+    ViewData["Title"] = "Students";
+}
+
+<h2>Student Attendance Management</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Add New Student</a>
+</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Registration Number</th>
+            <th>Department</th>
+            <th>Attendance (%)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.StudentId</td>
+                <td>@student.StudentName</td>
+                <td>@student.RegistrationNumber</td>
+                <td>@student.Department</td>
+                <td>@student.AttendancePercentage</td>
+                <td>
+                    <a asp-action="Edit"
+                       asp-route-id="@student.StudentId"
+                       class="btn btn-warning">Edit</a>
+
+                    <form asp-action="Delete"
+                          asp-route-id="@student.StudentId"
+                          method="post"
+                          style="display:inline">
+                        <button type="submit"
+                                class="btn btn-danger"
+                                onclick="return confirm('Delete this student?')">
+                            Delete
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
